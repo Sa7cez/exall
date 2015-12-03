@@ -5,6 +5,9 @@
 .icon-arrow-left:before { content: '\24'; } /* '$' */
 .icon-hamburger:before { content: '\25'; } /* '%' */
 .icon-lock:before { content: '\26'; } /* '&amp;' */
+.icon-twitter-square:before { content: '\27'; } /* ''' */
+.icon-qq:before { content: '\28'; } /* '(' */
+.icon-wechat:before { content: '\29'; } /* ')' */
 .icon-bitcoin:before { content: '\32'; } /* '2' */
 .icon-cross:before { content: '\e800'; } /* '' */
 .icon-arrow-right:before { content: '\e806'; } /* '' */

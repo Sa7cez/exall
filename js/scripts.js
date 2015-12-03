@@ -36,13 +36,11 @@ var recaptcha2;
 var recaptcha3;
 
 var myCallBack = function() {
-  //Render the recaptcha1 on the element with ID "recaptcha1"
   recaptcha1 = grecaptcha.render('recaptcha1', {
     'sitekey' : '6Ld0pw4TAAAAAEo2CaeT_HzrkwCufCp-VV1FNhG4', //Replace this with your Site key
     'theme' : 'light'
   });
   
-  //Render the recaptcha2 on the element with ID "recaptcha2"
   recaptcha2 = grecaptcha.render('recaptcha2', {
     'sitekey' : '6Ld0pw4TAAAAAEo2CaeT_HzrkwCufCp-VV1FNhG4', //Replace this with your Site key
     'theme' : 'light'
@@ -91,7 +89,7 @@ $('.open_feedback, .feedback .button').click(function () {
 $('#splash, .popup .close, #secure .close').click(function () {
   $('#why_us li.active').removeClass('active');
   $('#why_us .info').removeClass('active');
-  $('#splash, #secure, #popup, #feedback, .mobile_menu').fadeOut();
+  $('#splash, #secure, #popup, #feedback, .mobile_menu, #message').fadeOut();
   return false;
 });
 
@@ -118,21 +116,25 @@ $("#imgInput").change(function(){
 
 /* Forms sender */
 
-$('.ajax_form').submit(function() {
-    form = $(this);
-    var str = $(this).serialize();
-    $.ajax({
-        type: "POST",
-        url: "../send.php",
-        data: str,
-        success: function(msg) {
-          console.log('success - ' + str);
-        },
-        error: function(msg) {
-          console.log('error - ' + str);
-        }
-    });
+$("#subscribe_form").submit(function(e){
+  e.preventDefault();
+  var email=$("#email_input");
+  var flag=false;
+  if(email.val()==""){
+    email.focus();
+    flag=false;
     return false;
+  } else{
+    flag=true;
+    $('#subscribe_form input[type="submit"]').attr('disabled','disabled').fadeIn();
+  }
+  var dataString="email="+ email.val();
+  $.ajax({type:"POST",data:dataString,url:"subscribe.php",cache:false,success:function(d){
+    $('#message p').html(d);
+    $('#splash, #message').fadeIn();
+    $('#subscribe_form').fadeOut();
+  }});
+  return false;
 });
 
 window.Parsley.on('form:submit', function() {

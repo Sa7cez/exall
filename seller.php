@@ -69,9 +69,16 @@
 
 				<div class="review">
 					<div class="left">
-						<div class="name">Maxim Belonoschenko</div>
+						<div class="name">Maxim<br>Belonoschenko</div>
 						<div class="date">15.09.15</div>
-						<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+						<div class="social">
+							<a href="#" class="icon-facebook"></a>
+							<a href="#" class="icon-vk"></a>
+							<a href="#" class="icon-qq"></a>
+							<a href="#" class="icon-twitter-square"></a>
+							<a href="#" class="icon-wechat"></a>
+						</div>
+						<div class="clearfix"></div>
 					</div>
 					<div class="right">
 						<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель, Все адекватно, безопасно и честно, на первый взгляд.</p>
@@ -81,9 +88,16 @@
 
 				<div class="review">
 					<div class="left">
-						<div class="name">Eugeniy Latypov</div>
+						<div class="name">Eugeniy<br>Latypov</div>
 						<div class="date">15.09.15</div>
-						<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+						<div class="social">
+							<a href="#" class="icon-facebook"></a>
+							<a href="#" class="icon-vk"></a>
+							<a href="#" class="icon-qq"></a>
+							<a href="#" class="icon-twitter-square"></a>
+							<a href="#" class="icon-wechat"></a>
+						</div>
+						<div class="clearfix"></div>
 					</div>
 					<div class="right">
 						<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель, Все адекватно, безопасно и честно, на первый взгляд.</p>
@@ -92,9 +106,16 @@
 
 				<div class="review">
 					<div class="left">
-						<div class="name">John Dillinger</div>
+						<div class="name">John<br>Dillinger</div>
 						<div class="date">15.09.15</div>
-						<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+						<div class="social">
+							<a href="#" class="icon-facebook"></a>
+							<a href="#" class="icon-vk"></a>
+							<a href="#" class="icon-qq"></a>
+							<a href="#" class="icon-twitter-square"></a>
+							<a href="#" class="icon-wechat"></a>
+						</div>
+						<div class="clearfix"></div>
 					</div>
 					<div class="right">
 						<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель, Все адекватно, безопасно и честно, на первый взгляд.<br>

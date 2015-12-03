@@ -1,4 +1,3 @@
-
 	<footer>
 		<div class="container">
 
@@ -42,8 +41,17 @@
 
 				<form id="subscribe_form" class="subscribe ajax_form">
 					<label for="email_input">Subscribe for a newsletter:</label>
-					<input type="text" id="email_input" name="email" placeholder="Your email">
-					<input type="submit" value="Ok">
+					<input type="email" id="email_input" name="email" placeholder="Your email" onKeyUp="$('#captcha4').fadeIn();">
+					<input type="hidden" name="ip" value="<?php echo $_SERVER['REMOTE_ADDR']; ?>">
+					<input type="submit" value="Ok" style="display:none">
+					<div class="clearfix"></div>
+					<div id="captcha4" style="display:none">
+						<script src="http://captcha.one/captcha/create/?id=e6298e99ec4f0f84073e983387de9fc4&div=RcYKp" id="RcYKp"></script>
+						<script type="text/javascript"> function RcYKp_callback(){
+						  $('#subscribe_form input[type=submit]').fadeIn();
+						}
+						</script>
+					</div>
 				</form>
 			</div>
 
@@ -91,7 +99,7 @@
 				<input onchange="if ($('#reg_password').get(0).type=='password') $('#reg_password').get(0).type='text'; else $('#reg_password').get(0).type='password';" name="fff" type="checkbox" value="false" id="show_pass2" class="checkbox eye"><label for="show_pass2"></label>
 				<input type="checkbox" name="rules" class="checkbox square" id="checkbox">
 				<label for="checkbox" id="terms2" onclick="$('#recaptcha1').fadeToggle();" style="display:none">I accept the <a href="/exall/terms_of_use" target="_blank">terms of use</a></label>
-				<div id="recaptcha1" class="g-recaptcha" style="display:none"></div>
+				<!-- <div id="recaptcha1" class="g-recaptcha" style="display:none"></div> -->
 				<button type="submit" class="orange_button">Enter <i class="icon-arrow-right"></i></button>
 			</form>
 		</div>
@@ -147,6 +155,11 @@
 			</form>
 		</div>
 
+	</div>
+
+	<div id="message" class="popup" style="display:none">
+		<div class="close icon-cross"></div>
+		<p>Form submitted Successfully. Check your email for the confirmation link.</p>
 	</div>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

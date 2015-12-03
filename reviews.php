@@ -19,9 +19,15 @@
 		<div class="infos js-masonry" data-masonry-options='{ "itemSelector": ".info", "colunWidth": "240px", "gutter": 110 }'>
 		
 			<div class="info" id="client9_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
 				<div class="name">Maxim<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель,<br>Все адекватно, безопасно и честно, на первый взгляд. Буду тестировать и проверять, но пока что все круто!</p>
@@ -34,9 +40,16 @@
 			</div>
 
 			<div class="info" id="client9_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
@@ -48,9 +61,16 @@
 			</div>
 
 			<div class="info" id="client6_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
@@ -63,9 +83,16 @@
 			</div>
 
 			<div class="info" id="client8_info">
-				<div class="social"><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Oleg 8<br>Rusakov</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель.</p>
@@ -79,9 +106,16 @@
 			</div>
 
 			<div class="info" id="client5_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim 5<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
@@ -93,9 +127,16 @@
 			</div>
 
 			<div class="info" id="client5_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim 5<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
@@ -105,9 +146,16 @@
 			</div>
 
 			<div class="info" id="client7_info">
-				<div class="social"><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Oleg 7<br>Rusakov</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель.<br>
@@ -117,9 +165,16 @@
 			</div>
 
 			<div class="info" id="client4_info">
-				<div class="social"><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Oleg 4<br>Rusakov</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель.</p>
@@ -129,9 +184,16 @@
 			</div>
 
 			<div class="info" id="client3_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim 3<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
@@ -139,9 +201,16 @@
 			</div>
 
 			<div class="info" id="client2_info">
-				<div class="social"><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Oleg 2<br>Rusakov</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Сервис классный! Быстро очень проходит процесс обмена валюты. Только оставил заявку – как уже нашелся покупатель.</p><p>Все адекватно, безопасно и честно, на первый взгляд. Буду тестировать и проверять, но пока что все круто!</p>
@@ -149,9 +218,16 @@
 			</div>
 
 			<div class="info" id="client1_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim 1<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
@@ -160,9 +236,16 @@
 			</div>
 
 			<div class="info" id="client1_info">
-				<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+				 
 				<div class="name">Maxim 1<br>Belonoschenko</div>
 				<div class="date">15.09.15</div>
+				<div class="social">
+					<a href="#" class="icon-facebook"></a>
+					<a href="#" class="icon-vk"></a>
+					<a href="#" class="icon-qq"></a>
+					<a href="#" class="icon-twitter-square"></a>
+					<a href="#" class="icon-wechat"></a>
+				</div>
 				
 				<div class="review">
 					<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
@@ -174,14 +257,14 @@
 
 		<ul id="pagination">
 			<li>
-				<i class="icon-arrow-left"></i>
+				<a href="#" class="icon-arrow-left"></a>
 			</li>
-			<li>1</li>
-			<li class="active">2</li>
-			<li>3</li>
-			<li>4</li>
+			<li><a href="#">1</a></li>
+			<li class="active"><a href="#">2</a></li>
+			<li><a href="#">3</a></li>
+			<li><a href="#">4</a></li>
 			<li>
-				<i class="icon-arrow-right"></i>
+				<a href="#" class="icon-arrow-right"></a>
 			</li>
 		</ul>
 

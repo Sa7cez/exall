@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'exall';
-  src: url('../font/exall.eot?5722810');
-  src: url('../font/exall.eot?5722810#iefix') format('embedded-opentype'),
-       url('../font/exall.woff?5722810') format('woff'),
-       url('../font/exall.ttf?5722810') format('truetype'),
-       url('../font/exall.svg?5722810#exall') format('svg');
+  src: url('../font/exall.eot?6030134');
+  src: url('../font/exall.eot?6030134#iefix') format('embedded-opentype'),
+       url('../font/exall.woff?6030134') format('woff'),
+       url('../font/exall.ttf?6030134') format('truetype'),
+       url('../font/exall.svg?6030134#exall') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'exall';
-    src: url('../font/exall.svg?5722810#exall') format('svg');
+    src: url('../font/exall.svg?6030134#exall') format('svg');
   }
 }
 */
@@ -60,6 +60,9 @@
 .icon-arrow-left:before { content: '\24'; } /* '$' */
 .icon-hamburger:before { content: '\25'; } /* '%' */
 .icon-lock:before { content: '\26'; } /* '&amp;' */
+.icon-twitter-square:before { content: '\27'; } /* ''' */
+.icon-qq:before { content: '\28'; } /* '(' */
+.icon-wechat:before { content: '\29'; } /* ')' */
 .icon-bitcoin:before { content: '\32'; } /* '2' */
 .icon-cross:before { content: '\e800'; } /* '' */
 .icon-arrow-right:before { content: '\e806'; } /* '' */

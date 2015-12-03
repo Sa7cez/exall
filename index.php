@@ -196,9 +196,16 @@
 			<div class="infos">
 
 				<div class="info active" id="client9_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Maxim<br>Belonoschenko</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -215,9 +222,16 @@
 				</div>
 
 				<div class="info" id="client6_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Maxim<br>Belonoschenko</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -234,9 +248,16 @@
 				</div>
 
 				<div class="info" id="client8_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Oleg 8<br>Rusakov</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -253,9 +274,16 @@
 				</div>
 
 				<div class="info" id="client5_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Maxim 5<br>Belonoschenko</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -272,9 +300,16 @@
 				</div>
 
 				<div class="info" id="client7_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Oleg 7<br>Rusakov</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -288,9 +323,16 @@
 				</div>
 
 				<div class="info" id="client4_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Oleg 4<br>Rusakov</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -307,9 +349,16 @@
 				</div>
 
 				<div class="info" id="client3_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Maxim 3<br>Belonoschenko</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -326,9 +375,16 @@
 				</div>
 
 				<div class="info" id="client2_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Oleg 2<br>Rusakov</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>
@@ -344,9 +400,16 @@
 				</div>
 
 				<div class="info" id="client1_info">
-					<div class="social"><a href="#" class="icon-facebook"></a><a href="#" class="icon-vk"></a></div>
+					 
 					<div class="name">Maxim 1<br>Belonoschenko</div>
 					<div class="date">15.09.15</div>
+					<div class="social">
+						<a href="#" class="icon-facebook"></a>
+						<a href="#" class="icon-vk"></a>
+						<a href="#" class="icon-qq"></a>
+						<a href="#" class="icon-twitter-square"></a>
+						<a href="#" class="icon-wechat"></a>
+					</div>
 					<div class="line"></div>
 					<div class="arrows">
 						<div class="left"><i class="icon-arrow-left"></i></div>

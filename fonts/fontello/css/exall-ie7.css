@@ -16,6 +16,9 @@
 .icon-arrow-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x24;&nbsp;'); }
 .icon-hamburger { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25;&nbsp;'); }
 .icon-lock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x26;&nbsp;'); }
+.icon-twitter-square { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x27;&nbsp;'); }
+.icon-qq { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x28;&nbsp;'); }
+.icon-wechat { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x29;&nbsp;'); }
 .icon-bitcoin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x32;&nbsp;'); }
 .icon-cross { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
 .icon-arrow-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
